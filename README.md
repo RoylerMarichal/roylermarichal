@@ -1,20 +1,21 @@
-## 📝 Biografía
+## 📝 Bio
 Entrepreneur, Founder at @The-SaaS-Factory. FullStack Developer.
 
-## 🚀 Proyectos
+## 🚀 Projects
 - [The SaaS Factory](https://thesaasfactory.dev)
 - [Hosting Clan](https://hostingclan.com)
 - [CluzStudio](https://cluzstudio.com)
 
-## 💻 Repositorios
+## 💻 Repositories
 - [Next 14 FullStack SaaS Boilerplate](https://github.com/The-SaaS-Factory/next-14-saas-boilerplate)
 
 
-## 🔧 Habilidades Principales
-- FullStack 
+## 🔧 Core Skills
+- FullStack - TS 
 
-## 💬 Contacto
-- Correo electrónico: roylermarichalcarrazana@gmail.com
-- Sitio web: roylermarichal.com
+## 💬 Contact
+- Email: roylermarichalcarrazana@gmail.com
+- Web: roylermarichal.com
 - Twitter: [@RoylerMarichal](https://twitter.com/RoylerMarichal)
+- Linkedin: [@RoylerMarichal](https://www.linkedin.com/in/roylermarichal/)
 
